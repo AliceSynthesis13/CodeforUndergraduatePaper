@@ -1,0 +1,167 @@
+OBC_M1_type1：t = 1; lambda_SO = 0;   lambda_v = 0;   gamma =  1; Mx = My = 0;   type = 1; n = 80;
+
+OBC_M1_type2：t = 1; lambda_SO = 0;   lambda_v = 0;   gamma =  1; Mx = My = 0;   type = 2; n = 80;
+  
+OBC_M1_type3：t = 1; lambda_SO = 0;   lambda_v = 0;   gamma =  1; Mx = My = 0;   type = 3; n = 80;
+
+OBC_M1_type4：t = 1; lambda_SO = 0;   lambda_v = 0;   gamma =  1; Mx = My = 0;   type = 4; n = 80;
+
+OBC_M2_type1：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  1; Mx = My = 0;   type = 1; n = 80;
+
+OBC_M2_type2：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  1; Mx = My = 0;   type = 2; n = 80;
+
+OBC_M2_type3：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  1; Mx = My = 0;   type = 3; n = 80;
+
+OBC_M2_type4：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  1; Mx = My = 0;   type = 4; n = 80;
+
+OBC_M3_type1：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  1; Mx = My = 0.2; type = 1; n = 80;
+
+OBC_M3_type2：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  1; Mx = My = 0.2; type = 2; n = 80;
+
+OBC_M3_type3：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  1; Mx = My = 0.2; type = 3; n = 80;
+
+OBC_M3_type4：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  1; Mx = My = 0.2; type = 4; n = 80;
+
+OBC_M4_type1：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  0; Mx = My = 0.2; type = 1; n = 80;
+
+OBC_M4_type2：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  0; Mx = My = 0.2; type = 2; n = 80;
+
+OBC_M4_type3：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  0; Mx = My = 0.2; type = 3; n = 80;
+
+OBC_M4_type4：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma =  0; Mx = My = 0.2; type = 4; n = 80;
+
+OBC_M5_type1：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = -1; Mx = My = 0.2; type = 1; n = 80;
+
+OBC_M5_type2：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = -1; Mx = My = 0.2; type = 2; n = 80;
+
+OBC_M5_type3：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = -1; Mx = My = 0.2; type = 3; n = 80;
+
+OBC_M5_type4：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = -1; Mx = My = 0.2; type = 4; n = 80;
+
+OBC_M6_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  1; Mx = My = 0.2; type = 1; n = 80;
+
+OBC_M6_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  1; Mx = My = 0.2; type = 2; n = 80;
+
+OBC_M6_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  1; Mx = My = 0.2; type = 3; n = 80;
+
+OBC_M6_type4：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  1; Mx = My = 0.2; type = 4; n = 80;
+
+OBC_M7_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  0; Mx = My = 0.2; type = 1; n = 80;
+
+OBC_M7_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  0; Mx = My = 0.2; type = 2; n = 80;
+
+OBC_M7_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  0; Mx = My = 0.2; type = 3; n = 80;
+
+OBC_M7_type4：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  0; Mx = My = 0.2; type = 4; n = 80;
+
+OBC_M8_type1：t = 1; lambda_SO = 0.05; lambda_v = 0.3; gamma =  0; Mx = My = 0.0; type = 1; n = 80;
+
+OBC_M8_type2：t = 1; lambda_SO = 0.05; lambda_v = 0.3; gamma =  0; Mx = My = 0.0; type = 2; n = 80;
+
+OBC_M8_type3：t = 1; lambda_SO = 0.05; lambda_v = 0.3; gamma =  0; Mx = My = 0.0; type = 3; n = 80;
+
+OBC_M8_type4：t = 1; lambda_SO = 0.05; lambda_v = 0.3; gamma =  0; Mx = My = 0.0; type = 4; n = 80;
+
+OBC_M9_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  0; Mx = My = 0.0; type = 1; n = 80;
+
+OBC_M9_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  0; Mx = My = 0.0; type = 2; n = 80;
+
+OBC_M9_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  0; Mx = My = 0.0; type = 3; n = 80;
+
+OBC_M9_type4：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  0; Mx = My = 0.0; type = 4; n = 80;
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+R_OBC_M1_DoS_type1：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.3; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M1_DoS_type2：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.3; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M1_DoS_type3：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.3; Mx = My = 0.2; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M2_DoS_type1：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.0; Mx = My = 0.0; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M2_DoS_type2：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.0; Mx = My = 0.0; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M2_DoS_type3：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.0; Mx = My = 0.0; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M4_DoS_type1：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 1.0; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+  
+R_OBC_M4_DoS_type2：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 1.0; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+
+R_OBC_M7_DoS_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =   1; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M7_DoS_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =   1; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M7_DoS_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =   1; Mx = My = 0.2; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M8_DoS_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =   0; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M8_DoS_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =   0; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M8_DoS_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =   0; Mx = My = 0.2; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M9_DoS_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  -1; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M9_DoS_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  -1; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M9_DoS_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =  -1; Mx = My = 0.2; type = 2; Nx = 21; Ny = 20;
+
+
+
+
+
+
+
+
+
+
+
+R_OBC_M1_E_type1：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.3; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M1_E_type2：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.3; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M1_E_type3：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.3; Mx = My = 0.2; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M2_E_type1：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.0; Mx = My = 0.0; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M2_E_type2：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.0; Mx = My = 0.0; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M2_E_type3：t = 1; lambda_SO = 0.1; lambda_v = 0;   gamma = 0.0; Mx = My = 0.0; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M3_E_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma = 0.0; Mx = My = 0.0; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M3_E_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma = 0.0; Mx = My = 0.0; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M3_E_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma = 0.0; Mx = My = 0.0; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M4_E_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.0; gamma = 1.0; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M4_E_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.0; gamma = 1.0; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M4_E_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.0; gamma = 1.0; Mx = My = 0.2; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M5_E_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.0; gamma = 0.0; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M5_E_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.0; gamma = 0.0; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M5_E_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.0; gamma = 0.0; Mx = My = 0.2; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M6_E_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.0; gamma =  -1; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M6_E_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.0; gamma =  -1; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M6_E_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.0; gamma =  -1; Mx = My = 0.2; type = 2; Nx = 21; Ny = 20;
+
+R_OBC_M7_E_type1：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =   1; Mx = My = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M7_E_type2：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =   1; Mx = My = 0.2; type = 2; Nx = 20; Ny = 20;
+  
+R_OBC_M7_E_type3：t = 1; lambda_SO = 0.1; lambda_v = 0.1; gamma =   1; Mx = My = 0.2; type = 2; Nx = 21; Ny = 20;
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+OBC_M1_type1：t = 1; lambda_SO = 0.1; mu  = 0.0; Delta0 = 0.0; Delta1 = 0.0; Delta2 = 0.0; type = 1; n = 40;
+
+OBC_M2_type1：t = 1; lambda_SO = 0.1; mu  = 0.0; Delta0 = 0.2; Delta1 = 0.0; Delta2 = 0.0; type = 1; n = 40;
+
+OBC_M3_type1：t = 1; lambda_SO = 0.1; mu  = 0.0; Delta0 = 0.0; Delta1 = 0.2; Delta2 = 0.0; type = 1; n = 40;
+
+OBC_M4_type1：t = 1; lambda_SO = 0.1; mu  = 0.0; Delta0 = 0.0; Delta1 = 0.0; Delta2 = 0.2; type = 1; n = 40;
+
+OBC_M5_type1：t = 1; lambda_SO = 0.1; mu  = 0.1; Delta0 = 0.2; Delta1 = 0.0; Delta2 = 0.0; type = 1; n = 40;
+
+OBC_M6_type1：t = 1; lambda_SO = 0.1; mu  = 0.1; Delta0 = 0.0; Delta1 = 0.2; Delta2 = 0.0; type = 1; n = 40;
+
+OBC_M7_type1：t = 1; lambda_SO = 0.1; mu  = 0.1; Delta0 = 0.0; Delta1 = 0.0; Delta2 = 0.2; type = 1; n = 40;
+
+OBC_M8_type1：t = 1; lambda_SO = 0.1; mu  = 0.1; Delta0 = 0.2; Delta1 = 0.2; Delta2 = 0.2; type = 1; n = 40;
+
+OBC_M9_type1：t = 1; lambda_SO = 0.1; mu  = 0.0; Delta0 = 0.2; Delta1 = 0.0; Delta2 = 0.2; type = 1; n = 40;
+
+
+R_OBC_M1_E_type1：t = 1; lambda_SO = 0.1; mu  = 0.0; Delta0 = 0.0; Delta1 = 0.0; Delta2 = 0.0; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M2_E_type1：t = 1; lambda_SO = 0.1; mu  = 0.0; Delta0 = 0.2; Delta1 = 0.0; Delta2 = 0.2; type = 1; Nx = 20; Ny = 20;
+
+R_OBC_M3_E_type1：t = 1; lambda_SO = 0.1; mu  = 0.0; Delta0 = 0.2; Delta1 = 0.0; Delta2 = 0.2; type = 1; Nx = 20; Ny = 20;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

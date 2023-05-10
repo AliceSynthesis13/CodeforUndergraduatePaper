@@ -1,0 +1,15 @@
+type = 1: AB-C       type = 2: AB-AB        type = 3: C-C
+
+OBC_M1_type1：t = 1; lambda_SO = 0.1; mu = 0; Delta0 = 0;   N = 40; N0 = 1;
+OBC_M1_type2：t = 1; lambda_SO = 0.1; mu = 0; Delta0 = 0;   N = 41; N0 = 1;
+OBC_M1_type3：t = 1; lambda_SO = 0.1; mu = 0; Delta0 = 0;   N = 41; N0 = 0;
+
+OBC_M2_type1：t = 1; lambda_SO = 0.1; mu = 0; Delta0 = 0.1; N = 40; N0 = 1;
+
+
+
+
+
+
+
+
